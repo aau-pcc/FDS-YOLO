@@ -54,5 +54,9 @@ Pie chart of the proportion and quantity of different tea bud categories across 
   <img src="https://github.com/aau-pcc/FDS-YOLO/blob/main/pictures/3.png" width="50%">
 </div><br>
 
+### models:<br>
+##### How to use<br>
+In the models we put the source code of yolov5 and yolov8, and the weights trained on TeaBudVis.<br>
+
 ### :blush:Here we have only presented some sample images from the dataset. If you need them, please contact us to obtain more.<br>
 
