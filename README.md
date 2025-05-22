@@ -37,8 +37,10 @@ To address these challenges, this study proposed a multi-objective tea bud detec
 (4) Based on the statistical results of various tea bud quantities in videos from different time periods, a dynamic proportion was innovatively constructed, which can clearly quantify the growth trend of tea buds and provide assistance for future tea garden management decisions.<br>
 
 ##### Some experimental results of image detection<br>
-Detection results on TeaBudVis
-
+Detection results on TeaBudVis：<br>
+<div align="center">
+  <img src="https://github.com/aau-pcc/FDS-YOLO/blob/main/pictures/1.png" width="50%">
+</div><br>
 
 ### :blush:Here we have only presented some sample images from the dataset. If you need them, please contact us to obtain more.<br>
 
