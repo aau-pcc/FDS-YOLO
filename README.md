@@ -48,5 +48,11 @@ Regression analysis results of PLBC counting versus manual counting：<br>
   <img src="https://github.com/aau-pcc/FDS-YOLO/blob/main/pictures/2.png" width="50%">
 </div><br>
 
+##### Prediction of tea timing occupancy based on counting results<br>
+Pie chart of the proportion and quantity of different tea bud categories across various time periods：<br>
+<div align="center">
+  <img src="https://github.com/aau-pcc/FDS-YOLO/blob/main/pictures/3.png" width="50%">
+</div><br>
+
 ### :blush:Here we have only presented some sample images from the dataset. If you need them, please contact us to obtain more.<br>
 
