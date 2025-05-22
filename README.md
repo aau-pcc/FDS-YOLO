@@ -36,5 +36,9 @@ To address these challenges, this study proposed a multi-objective tea bud detec
 (3) The proposed method was based on parallel line intersection counting in videos, which tracked and counted tea buds by analyzing their motion trajectories across consecutive video frames. This method effectively addressed counting errors caused by missed detections and false positives, improving the accuracy and reliability of the counting process.<br>
 (4) Based on the statistical results of various tea bud quantities in videos from different time periods, a dynamic proportion was innovatively constructed, which can clearly quantify the growth trend of tea buds and provide assistance for future tea garden management decisions.<br>
 
+##### Some experimental results of image detection<br>
+Detection results on TeaBudVis
+
+
 ### :blush:Here we have only presented some sample images from the dataset. If you need them, please contact us to obtain more.<br>
 
