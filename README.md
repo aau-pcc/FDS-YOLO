@@ -3,6 +3,7 @@
 ### This repository is built for:<br>
 #### TeaBudVis（Xiaolanhua）<br>
 TeaBudVis tea bud dataset photographed in early April 2024, tea buds are dense and shaded, labelled with only one tea category. Total 3070 images.<br>
+The image is shown below:<br>
 <div align="center">
   <img src="https://github.com/aau-pcc/FDS-YOLO/blob/main/TeaBudVis/Images/2024_04_07_10_47_IMG_3490.jpg" width="50%">
 </div><br>
