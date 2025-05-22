@@ -29,6 +29,8 @@ Late-March pictures are shown below:<br>
 </div><br>
 
 ### clarification<br>
+Tea bud detection and counting in complex plantations face challenges due to shape/size variations, occlusion/overlap from dense growth and color similarity, and image diversity from varying camera distances. Current methods, focused on small-scale or specific conditions, often fail in real environments. Moreover, current video-based counting methods struggle with missed or false detections in consecutive frames and counting errors due to reliance on single-line counting techniques.<br>
+To address these challenges, this study proposed a multi-objective tea bud detection and counting network model tailored for complex tea garden environments. The accuracy and generalization ability of tea bud detection and tracking were significantly improved by introducing advanced network architectures and optimization strategies, along with the development of a novel double-parallel line-based counting method. Meanwhile, by introducing the dynamic proportion of different types of tea buds at different times, the dynamic growth trend of tea buds can be observed more clearly.<br>
 
 ### :blush:Here we have only presented some sample images from the dataset. If you need them, please contact us to obtain more.<br>
 
