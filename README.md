@@ -25,7 +25,7 @@ Late-March pictures are shown below:<br>
 ##### ZhongchaSet<br>
 Late-March pictures are shown below:<br>
 <div align="center">
-  <img src="https://github.com/aau-pcc/FDS-YOLO/blob/main/DiverseBudSet/ZhongchaSet/late/images/2025_03_28_10_36_IMG_2358_002.jpg" width="50%">
+  <img src="https://github.com/aau-pcc/FDS-YOLO/blob/main/DiverseBudSet/ZhongchaSet/late/images/2025_03_28_10_34_IMG_2322_003.jpg" width="50%">
 </div><br>
 
 ### clarification<br>
