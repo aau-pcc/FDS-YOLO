@@ -10,6 +10,7 @@ The image is shown below:<br>
 
 #### DiverseBudSet（Huangjinya、Longjinchangye、Zhongcha111）<br>
 Collected in early, mid and late March 2025, respectively. In early March, the number of single bracts and single buds in the images was higher and the targets were smaller, more attached to the branch tips or obscured by the leaves, which was not easy to identify; in mid-March, the images were taken in rainy days with insufficient light, and the background was blurred under the shade of rainwater, which affected the details of the characteristics of the tea buds; in late March, compared with the two previous periods, the tea buds were growing rapidly, and the growth of the one-leaf shoots and one-leaf shoots was more intensive and there was significant The background is blurred by water, which affects the details of the tea buds' features.<br>
+The tea buds were labeled as tea (single closed bud), tea1 (single bud), tea11 (one bud with one leaf), and tea12 (one bud with two leaves, tea buds that had not grown into one bud with two leaves by early-March were not labeled as this type). <br>
 ##### HuangjinyaSet<br>
 Late-March pictures are shown below:<br>
 <div align="center">
