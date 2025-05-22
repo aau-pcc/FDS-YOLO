@@ -42,5 +42,11 @@ Detection results on TeaBudVis：<br>
   <img src="https://github.com/aau-pcc/FDS-YOLO/blob/main/pictures/1.png" width="50%">
 </div><br>
 
+##### Results of tracking counting experiments<br>
+Regression analysis results of PLBC counting versus manual counting：<br>
+<div align="center">
+  <img src="https://github.com/aau-pcc/FDS-YOLO/blob/main/pictures/2.png" width="50%">
+</div><br>
+
 ### :blush:Here we have only presented some sample images from the dataset. If you need them, please contact us to obtain more.<br>
 
